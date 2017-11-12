@@ -1,4 +1,4 @@
-Welcome to **How to GIT Effective**.
+Welcome to **How to GIT Effective**, by Mike Kasprzak.
 
 This is a collection of articles of not how to use GIT, but rather how to use it effectively in a team or as a solo developer.
 
